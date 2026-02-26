@@ -1,1 +1,1 @@
-console.log(f3)
+console.log(c1)
